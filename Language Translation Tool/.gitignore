@@ -1,0 +1,14 @@
+﻿# Virtual environment - machine-specific, shouldn't be committed
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# Buildozer build artifacts (regenerated on each build, large and disposable)
+.buildozer/
+bin/

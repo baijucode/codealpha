@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return any product within 7 days of delivery, as long as it is unused and in original packaging."
+  },
+  {
+    "question": "How do I get a refund?",
+    "answer": "Once your return is received and inspected, we'll process your refund to your original payment method within 5-7 business days."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Delivery usually takes 3 to 5 business days depending on your location."
+  },
+  {
+    "question": "How much does shipping cost?",
+    "answer": "Shipping is free for orders above Rs. 2000. Below that, a flat delivery charge of Rs. 100 applies."
+  },
+  {
+    "question": "Do you offer cash on delivery?",
+    "answer": "Yes, we offer cash on delivery (COD) for all orders within Nepal."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order using the tracking link sent to your email or phone after your order is shipped."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept eSewa, Khalti, credit/debit cards, and cash on delivery."
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "Yes, you can cancel your order before it is shipped by contacting our support team."
+  },
+  {
+    "question": "Can I change my delivery address after ordering?",
+    "answer": "Yes, as long as the order hasn't been shipped yet. Contact support with your order number to update the address."
+  },
+  {
+    "question": "Do you ship outside Nepal?",
+    "answer": "Currently, we only ship within Nepal. International shipping is not available yet."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our customer support via email at support@example.com or call us at 01-XXXXXXX."
+  },
+  {
+    "question": "What are your customer support hours?",
+    "answer": "Our support team is available Sunday to Friday, 10 AM to 6 PM."
+  },
+  {
+    "question": "Is there a warranty on products?",
+    "answer": "Most electronic products come with a 1-year manufacturer warranty. Check the product page for details."
+  },
+  {
+    "question": "How do I claim a warranty?",
+    "answer": "Contact support with your order number and a description of the issue, and we'll guide you through the warranty process."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Go to the login page, click 'Forgot Password', and follow the instructions sent to your email."
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign Up' on the top right corner, fill in your details, and verify your email to create an account."
+  },
+  {
+    "question": "Do I need an account to place an order?",
+    "answer": "No, you can check out as a guest, but creating an account lets you track orders and view order history easily."
+  },
+  {
+    "question": "How do I apply a discount or promo code?",
+    "answer": "Enter your promo code in the 'Apply Coupon' box at checkout before making payment."
+  },
+  {
+    "question": "What should I do if I received a damaged product?",
+    "answer": "Please contact support within 48 hours of delivery with photos of the damaged item, and we'll arrange a replacement or refund."
+  },
+  {
+    "question": "How do I exchange a product for a different size or color?",
+    "answer": "Contact support within 7 days of delivery to request an exchange, subject to availability of the new size or color."
+  },
+  {
+    "question": "Is my personal information safe?",
+    "answer": "Yes, we use industry-standard encryption to protect your personal and payment information."
+  },
+  {
+    "question": "Do you have a mobile app?",
+    "answer": "Yes, our app is available for both Android and iOS. Search for us on the Play Store or App Store."
+  },
+  {
+    "question": "Can I get an invoice for my order?",
+    "answer": "Yes, an invoice is automatically emailed to you after your order is placed, and it's also available in your account under Order History."
+  },
+  {
+    "question": "What happens if I'm not home during delivery?",
+    "answer": "Our delivery partner will attempt delivery up to 2 times and may contact you to arrange a convenient time or pickup location."
+  }
+]
