@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+checkpoints/*.h5
+data/midi/*.mid
+data/*.pkl
+data/*.npz
+output/*.mid
